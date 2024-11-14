@@ -2,6 +2,11 @@
 
 Welcome to the **Real-Time Chat Application**! This web application allows users to communicate in real-time by leveraging Firebase's backend infrastructure for authentication, real-time messaging, and data management. The application features a sleek, dark theme inspired by GitHub's dark mode, providing an elegant user experience.
 
+## IMPORTANT NOTES
+
+- To check live-website at [https://realtimechat-35960.web.app/] send me an email at [dev.alikaganmart@gmail.com]
+- This project is a personal project created by [dev.alikaganmart](https://github.com/kaganmart9) and is intended for educational purposes only. It is not intended for commercial or production use.
+
 ## Features
 
 - **User Authentication**: Secure user authentication with Firebase, allowing users to log in using their email and password.
